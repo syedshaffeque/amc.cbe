@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Psychologist Clinic Website
 
@@ -9,3 +10,8 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# amc.cbe
+amc
+web site 
+>>>>>>> 0e204b8d172c8058105f62d353f316795ad6ea24
