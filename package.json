@@ -6,6 +6,9 @@
   "homepage": "https://syedshaffeque.github.io/amc.cbe/",
   "scripts": {
     "build": "vite build",
+    
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist",
     "dev": "vite"
   },
   "dependencies": {
